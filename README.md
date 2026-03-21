@@ -1,55 +1,61 @@
-<h1 align="center">Hi 👋, I'm Darpan Parmar</h1>
-<h3 align="center">A passionate 1st-year B.Tech CSE student from India 🇮🇳</h3>
-
-<p align="center">
-  <a href="https://github.com/espelho-07">
-    <img src="https://komarev.com/ghpvc/?username=espelho-07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/espelho-07">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2EE112&center=true&vCenter=true&width=435&lines=B.Tech+Student+%40+Darshan+University;Full-Stack+Developer;AI%2FML+Enthusiast;Always+Learning+New+Tech!" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 Currently exploring **Web Development & AI/ML**
-- 🎓 Pursuing B.Tech in **Computer Science and Engineering** at Darshan University
-- 🌱 Constantly learning and building new things
-- ⚡ Fun fact: **EAT, CODE, SLEEP, REPEAT!**
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,figma,python,c,cpp&perline=9" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=espelho-07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=espelho-07&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+
+# `// INITIATING_BOOT_SEQUENCE...`
+### `> USER: DARPAN PARMAR [AUTHENTICATED]`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=espelho-07&label=SYSTEM_PINGS&color=000000&style=for-the-badge&logo=github" alt="Profile Views" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+I+build+the+future.;%3E+AI-Native+Developer.;%3E+Execution+%3E+Perfection.;%3E+Startup+Founder+Mindset." alt="Typing SVG" />
+
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=espelho-07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<br>
+
+## 🧠 `// NEURAL_WIRING (WHO AM I)`
+
+> *"I don't just write code. I build leverage."*
+
+I'm a 2nd-year CSE undergrad at Darshan University, but that's just the academic tag. In reality, I am a builder, an experimenter, and an AI-native developer. I refuse to get stuck in tutorial hell. I learn by breaking things, reading docs, and shipping fast.
+
+**AI is my co-pilot, not my replacement.** I use AI to code faster, think smarter, and build at the speed of thought. *Abhi seekh raha hu, but rukne wala nahi hu.*
 
 ---
 
-### 🐍 Contribution Trophies & Activity
+## ⚡ `// WHAT_IM_BUILDING (CURRENT EXPERIMENTS)`
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=espelho-07&theme=tokyonight&column=7&no-frame=true&no-bg=true" alt="Trophies" />
-</p>
+I experiment across domains. Here are some of the raw executions straight from my digital lab:
+
+*   🤖 **[Restaurant AI Copilot](https://github.com/espelho-07/restaurant-ai-copilot)**: Bringing AI into the hospitality space. Experimenting with how machines can take over friction in operations.
+*   🏗️ **[Civil Construction Calculator](https://github.com/espelho-07/Civil-Construction-Calculator)**: A massive utility suite of 40+ calculators built entirely in **React + Tailwind**. Scalable UI, pure logic.
+*   ⏱️ **[MOM System](https://github.com/espelho-07/Meeting-Of-Minutes-MOM-)**: Meeting of Minutes architecture built in **.NET**. Solving real-world tracking problems with robust backend systems.
+*   ⚔️ **[Odoo X GCET Hackathon](https://github.com/espelho-07/odoo-hackathon)**: Building under intense pressure. My team submission where sleep is nothing and shipping is everything.
+
+---
+
+## 🛠️ `// TOOLS_I_BEND_TO_MY_WILL`
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,ts,js,nodejs,express,mongodb,mysql,dotnet,c,cpp,python,git,github,vscode,figma&theme=dark&perline=8" />
+</div>
+
+<br>
+
+*I don't memorize syntax; I master problem-solving. My true stack is [Curiosity + AI + Execution].*
+
+---
+
+## 📟 `// TELEMETRY_DATA (SYSTEM STATS)`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=espelho-07&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=espelho-07&hide_border=true&background=0a0a0a&ring=00FF41&fire=00FF41&currStreakNum=ffffff&currStreakLabel=00FF41&sideNums=ffffff&sideLabels=00FF41&dates=C9D1D9" alt="GitHub Streak" width="48%" />
+</div>
+
+<br>
 
 <p align="center">
   <picture>
@@ -61,9 +67,25 @@
 
 ---
 
-### 📫 Connect with Me
+## 🏴‍☠️ `// THE_BUILDERS_MANIFESTO`
 
-<p align="center">
-  <a href="mailto:darpanparmar1707@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/espelho-07"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+```text
+1. Execution > Perfection.
+2. If it takes too long to learn manually, automate the learning with AI.
+3. Tutorials are safe. Building is dangerous. I choose dangerous.
+4. Not perfect yet, par I'm dangerous with execution.
+```
+
+---
+
+## 📡 `// ESTABLISH_CONNECTION`
+
+<div align="left">
+  <a href="mailto:darpanparmar1707@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-00FF41?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+  </a>
+</div>
+
+<br>
+
+<p align="right"><i>// END OF TRANSMISSION.</i></p>
