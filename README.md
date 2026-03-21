@@ -21,7 +21,7 @@
 
 I'm a 2nd-year CSE undergrad at Darshan University, but that's just the academic tag. In reality, I am a builder, an experimenter, and an AI-native developer. I refuse to get stuck in tutorial hell. I learn by breaking things, reading docs, and shipping fast.
 
-**AI is my co-pilot, not my replacement.** I use AI to code faster, think smarter, and build at the speed of thought. *Abhi seekh raha hu, but rukne wala nahi hu.*
+**AI is my co-pilot, not my replacement.** I use AI to code faster, think smarter, and build at the speed of thought.
 
 ---
 
